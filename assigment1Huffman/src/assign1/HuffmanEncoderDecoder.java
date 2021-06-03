@@ -9,12 +9,7 @@ import java.util.Map;
 import java.util.PriorityQueue;
 import java.util.Stack;
 
-/**
- * Assignment 1
- * Submitted by: 
- * Alex Breger ID 205580087
- * Dani Kogel ID 318503257
- */
+
 
 import base.Compressor;
 
