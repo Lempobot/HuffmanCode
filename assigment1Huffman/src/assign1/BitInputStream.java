@@ -1,10 +1,5 @@
 //code taken from https://courses.cs.duke.edu/spring11/cps100e/assign/huff/code/BitInputStream.html
-/**
- * Assignment 1
- * Submitted by: 
- * Alex Breger ID 205580087
- * Dani Kogel ID 318503257
- */
+
 package assign1;
 
 import java.io.*;
